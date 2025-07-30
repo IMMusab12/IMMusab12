@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- GitHub Profile README for IMusab -->
 
-<!--
-**IMMusab12/IMMusab12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=console.log('Welcome+to+IMusab+Hub');+🚀" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2300ffcc?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Gamer%20Mode-%23ff0044?style=for-the-badge&logo=steam&logoColor=white">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕹️ Who is IMusab?
+
+> ⚔️ Code by day, game by night  
+> 🎮 Merging logic with action, pixel by pixel  
+> 🧠 Dreaming in TypeScript and debugging with espresso  
+> 💻 Building immersive web experiences with full-stack magic
+
+```bash
+> Booting up profile...
+> Welcome to IMusab's Dev-Zone 💀
