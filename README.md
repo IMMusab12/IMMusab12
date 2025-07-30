@@ -1,24 +1,41 @@
-<!-- GitHub Profile README for IMusab -->
+<!-- README.md -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FF00&size=30&center=true&vCenter=true&width=600&height=50&lines=console.log('Welcome+to+IMusab+Hub');+🚀" />
-</h1>
+<div align="center">
+  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2300ffcc?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Gamer%20Mode-%23ff0044?style=for-the-badge&logo=steam&logoColor=white">
-</p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38F700&width=435&lines=Hey+there%2C+I'm+IMusab+%F0%9F%91%BD;Fullstack+Developer+%7C+Web+Wizard+%F0%9F%AA%84;Graphic+Designrer+%E2%9A%A1+Developing+Soul;Welcome+to+my+code+Bundle+%F0%9F%8E%93" alt="Typing SVG" />
+ 
+
+  <img src="https://media.tenor.com/_XJ0h1EKeS8AAAAC/ani-hack.gif" width="250" />
+  
+  <h1 align="center">IMusab</h1>
+  <h3 align="center"><code>⚔️ Chill + Programmer + Gamer + Developer + Designer * Infinite = IMusab</code></h3>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff89&height=120&section=footer"/>
+
+  <p align="center">
+    <a href="https://meetmusab.pro" target="_blank">
+      🌐 <strong>meetmusab.pro</strong>
+    </a>
+    |
+    <a href="mailto:promusabgamer@gmail.com">📧 Email</a>
+    |
+    <a href="https://github.com/IMusab">👾 GitHub</a>
+  </p>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,nodejs,express,mongodb" />
+
+</div>
 
 ---
 
-## 🕹️ Who is IMusab?
+### ⚡ About Me
 
-> ⚔️ Code by day, game by night  
-> 🎮 Merging logic with action, pixel by pixel  
-> 🧠 Dreaming in TypeScript and debugging with espresso  
-> 💻 Building immersive web experiences with full-stack magic
-
-```bash
-> Booting up profile...
-> Welcome to IMusab's Dev-Zone 💀
+```js
+const IMusab = {
+  code: ["JavaScript", "TypeScript", "Html", "Css"],
+  tools: ["React", "Vue", "Next.js", "Node.js", "Tailwind", "MySQL", "MongoDB"],
+  Library: ["Locomotive", "MUI", "React Bitz", "Heroui"],
+  passions: ["Gaming", "Programming", "Hacking", "Designing"],
+  Learning: "Always"
+};
